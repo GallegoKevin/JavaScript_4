@@ -6,21 +6,21 @@
 
 const movies = [
     {
-      id: 'movie-1',
-      title: 'Inception',
-      genres: ['Action', 'Sci-Fi', 'Thriller'],
+        id: 'movie-1',
+        title: 'Inception',
+        genres: ['Action', 'Sci-Fi', 'Thriller'],
     },
     {
-      id: 'movie-2',
-      title: 'The Shawshank Redemption',
-      genres: ['Drama', 'Crime'],
+        id: 'movie-2',
+        title: 'The Shawshank Redemption',
+        genres: ['Drama', 'Crime'],
     },
     {
-      id: 'movie-3',
-      title: 'Forrest Gump',
-      genres: ['Drama', 'Romance'],
+        id: 'movie-3',
+        title: 'Forrest Gump',
+        genres: ['Drama', 'Romance'],
     },
-  ];
+];
 
 
 //1. FIND (Devuelve el primer elemento en un array que cumple con una condición especificada.)

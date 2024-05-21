@@ -1,8 +1,7 @@
 //For: Es utilizado para repetir un bloque de codigo varias veces.
 //Se compone de tres partes: inicializacdor, limite o condición y incremento o decremento.
 
-
-console.log ('Imprimir los números del 1 al 20 que son divisibles por 5');
+// Imprimir los números del 1 al 20 que son divisibles por 5 
 
 for (let i = 1; i <= 20; i++) {
     if (i % 5 === 0) {
