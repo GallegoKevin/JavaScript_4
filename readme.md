@@ -1,5 +1,7 @@
 # JAVASCRIP
 
+![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYmpKizkiZ4vR50ndoXJZnBi2l2O7yj2NGw-YdjX2Jfg&s)
+
 
 ## for: 
 Es utilizado para repetir un bloque de codigo varias veces.
