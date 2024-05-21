@@ -1,4 +1,4 @@
-//For: Es utilizado para repetir un bloque de codigo varias veces
+//For: Es utilizado para repetir un bloque de codigo varias veces.
 //Se compone de tres partes: inicializacdor, limite o condición y incremento o decremento.
 
 
