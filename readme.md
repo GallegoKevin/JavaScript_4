@@ -14,7 +14,7 @@ Ejecuta una función de callback para cada elemento del array, sin devolver un n
 ## map: 
 Ejecuta una función de callback para cada elemento del array. Sin embargo devuelve un nuevo array con los resultados de la funcion aplicados a cada elemento. 
 
-### DIFERENCIAS DE FOREACH Y MAP: 
+### Diferecias de forEach y map: 
 
 `forEach` se usa para realizar una modificación en cada elemento de un array sin necesidad de crear un nuevo array, 
 `map` se usa cuando se quiere transformar cada elemento del array y obtner un nuevo array con los resultados .
