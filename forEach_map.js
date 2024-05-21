@@ -13,13 +13,13 @@ arr.forEach((element) => {
 
 // Nuevo array con la longitud de cada nombre
 
-const nombres = ["Juan", "María", "Carlos", "Ana"];
+const names = ["Juan", "María", "Carlos", "Ana"];
 
-const longitudNombres = nombres.map((nombre) => {
-    return nombre.length; 
+const lengthNames = names.map((name) => {
+    return name.length; 
 });
 
-console.log(longitudNombres);
+console.log(lengthNames);
 
 
 //Diferencia de foreach y map: 
